@@ -1,0 +1,7 @@
+
+
+print('Hi There')
+hit esc to come out of insert mode
+then press ':x'to come out of the text editor
+then press ':q!' to come out of the text editor without saving
+
